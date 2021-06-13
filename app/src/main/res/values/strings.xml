@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="title_activity_detail_film">DetailFilmActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="MovieTitle">MOVIE</string>
+    <string name="TvTitle">TV SHOW</string>
+    <string name="image_highlight">Image Highlight</string>
+    <string name="start_logo">Start Logo</string>
+    <string name="yousuf">YouSuf</string>
+    <string name="explore">Explore</string>
+    <string name="favorite">Favorite</string>
+    <string name="button_favorite">Button Favorite</string>
+    <string name="title_activity_bottom_test">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite_movie">Favorite Movies</string>
+    <string name="title_favorite_tvshows">Favorite Tv Show</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="user_rating">User Rating : </string>
+    <string name="this_is_moview">This is Moview</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+</resources>
